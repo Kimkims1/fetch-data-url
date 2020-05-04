@@ -1,0 +1,2 @@
+rootProject.name='FirestoreFetch'
+include ':app'
